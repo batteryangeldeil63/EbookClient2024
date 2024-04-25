@@ -223,6 +223,11 @@
   .hero-section {
     margin-top: 0.5rem;
   }
+
+   .hero-section .headline {
+        font-size: 1.8rem;
+        font-weight: bold;
+    }
   
 }
 
